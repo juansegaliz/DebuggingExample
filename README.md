@@ -1,5 +1,5 @@
 # DebuggingExample
-Example console project to solve a logic errors
+Example of a console project for resolving logic errors
 
 You have to solve it until it gives the expected results...
 
